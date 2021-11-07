@@ -1,2 +1,4 @@
-# glowbytemental
-Glowbyte Hackathon 2021
+# Solution of 2-nd case by team *Mental* 
+### Инструмент анализа и агрегации различных по структуре данных
+____________
+
